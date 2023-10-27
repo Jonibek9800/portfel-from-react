@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfel-from-react/static/css/main.602c121d.css",
+    "main.js": "/portfel-from-react/static/js/main.870cb231.js",
+    "static/media/headerBg.png": "/portfel-from-react/static/media/headerBg.28c2eb5a9b93391674dc.png",
+    "index.html": "/portfel-from-react/index.html",
+    "main.602c121d.css.map": "/portfel-from-react/static/css/main.602c121d.css.map",
+    "main.870cb231.js.map": "/portfel-from-react/static/js/main.870cb231.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.602c121d.css",
+    "static/js/main.870cb231.js"
+  ]
+}
